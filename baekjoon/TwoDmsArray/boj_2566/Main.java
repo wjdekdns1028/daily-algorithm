@@ -1,4 +1,4 @@
-package baekjoon.boj_2566;
+package baekjoon.TwoDmsArray.boj_2566;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

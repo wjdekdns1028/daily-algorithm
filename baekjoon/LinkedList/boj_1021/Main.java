@@ -1,4 +1,4 @@
-package baekjoon.boj_1021;
+package baekjoon.LinkedList.boj_1021;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package baekjoon.boj_10818;
+package baekjoon.Array.boj_10818;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
