@@ -15,7 +15,7 @@ class Solution {
             int[] target = queue.poll();
             boolean hasHigher = false;
 
-            for(int[] x : queue){
+            for(int[] x : queue) {
                 if(target[1] < x[1]){
                     hasHigher = true;
                 }
