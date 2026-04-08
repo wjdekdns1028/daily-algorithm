@@ -10,7 +10,13 @@ public class boj_6603 {
     static void DFS(int[] ar, int index, List<Integer> selected, int r){
         if(index >= ar.length){
             if(selected.size() == r){
-                System.out.println(selected);
+                for (int i = 0; i < selected.size(); i++) {
+                    System.out.print(selected.get(i));
+                    if (i < selected.size() - 1) {
+                        System.out.print(" ");
+                    }
+                }
+                System.out.println();
             }
             return;
         }
